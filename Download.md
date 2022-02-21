@@ -29,3 +29,6 @@ https://tomcat.apache.org/
 
 ### --> Scene Builder Download
 https://gluonhq.com/products/scene-builder/
+
+### --> Putty Download
+https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
