@@ -1,7 +1,7 @@
 # DevelopKitDownload
 Downloads required for development
 
-## 개발 툴 다운로드 
+## 개발 툴 다운로드 (윈도우환경)
 
 ### --> JDK Download
 https://www.oracle.com/java/technologies/downloads/
