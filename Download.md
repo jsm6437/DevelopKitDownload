@@ -30,7 +30,10 @@ https://tomcat.apache.org/
 ### --> Scene Builder Download
 https://gluonhq.com/products/scene-builder/
 
-### --> Putty Download
+### --> 파일질라(FTP) 설치
+https://filezilla.softonic.kr/download
+
+### --> Putty(SSH) Download
 https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
 ### --> 이클립스 마켓플레이스 웹 개발 도구
