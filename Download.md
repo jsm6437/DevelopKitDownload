@@ -41,3 +41,6 @@ https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
 ### --> Python Download
 https://www.python.org/downloads/windows/
+
+### --> JSTL 2.0.0 라이브러리
+https://jarcasting.com/artifacts/org.glassfish.web/jakarta.servlet.jsp.jstl/2.0.0/
