@@ -44,3 +44,12 @@ https://www.python.org/downloads/windows/
 
 ### --> JSTL 2.0.0 라이브러리
 https://jarcasting.com/artifacts/org.glassfish.web/jakarta.servlet.jsp.jstl/2.0.0/
+
+### --> 이클립스 다국어 아스키 코드로 변환 기능 Properties Editor
+이클립스 -> Help -> Install New Software
+
+  Work with에 http://propedit.sourceforge.jp/eclipse/updates 주소 
+
+
+
+
