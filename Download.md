@@ -55,6 +55,7 @@ https://commons.apache.org/proper/commons-io/download_io.cgi
 
 https://commons.apache.org/proper/commons-fileupload/download_fileupload.cgi
 
-#### 톰캣10버전부터 List items = upload.parseRequest(new ServletRequestContext(request)); 로 변경 후 기본 아파치 톰캣 업로드 임포트
+##### 톰캣10버전부터 List items = upload.parseRequest(new ServletRequestContext(request)); 로 변경 후 기본 아파치 톰캣 업로드 임포트
+##### moveFileToDirectory메서드 쓰려면 commons io 라이브러리 추가 후 org.apache.commons.io.FileUtils; import 필요
 
 
