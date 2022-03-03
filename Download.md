@@ -53,7 +53,7 @@ https://jarcasting.com/artifacts/org.glassfish.web/jakarta.servlet.jsp.jstl/2.0.
 ### --> 파일업로드 라이브러리
 https://commons.apache.org/proper/commons-io/download_io.cgi
 https://commons.apache.org/proper/commons-fileupload/download_fileupload.cgi
-톰캣10버전부터 
-List items = upload.parseRequest(new ServletRequestContext(request)); 로 변경 후 기본 아파치 톰캣 업로드 임포트
+
+#### 톰캣10버전부터 List items = upload.parseRequest(new ServletRequestContext(request)); 로 변경 후 기본 아파치 톰캣 업로드 임포트
 
 
