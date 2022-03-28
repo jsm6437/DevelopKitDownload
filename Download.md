@@ -68,5 +68,8 @@ https://maven.apache.org/
 https://spring.io/tools
 
 ### --> 전자정부표준프레임워크 포털
-https://www.egovframe.go.kr/home/main.do
+https://www.egovframe.go.kr/home/main.do  
+설치가이드  
+https://www.egovframe.go.kr/wiki/doku.php?id=egovframework:dev4.0:clntinstall  
+
 
