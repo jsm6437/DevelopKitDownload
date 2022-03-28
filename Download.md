@@ -71,5 +71,7 @@ https://spring.io/tools
 https://www.egovframe.go.kr/home/main.do  
 설치가이드  
 https://www.egovframe.go.kr/wiki/doku.php?id=egovframework:dev4.0:clntinstall  
+서버환경 가이드  
+https://www.egovframe.go.kr/wiki/doku.php?id=egovframework:dev4.0:svrinstall  
 
 
