@@ -73,5 +73,6 @@ https://www.egovframe.go.kr/home/main.do
 https://www.egovframe.go.kr/wiki/doku.php?id=egovframework:dev4.0:clntinstall  
 서버환경 가이드  
 https://www.egovframe.go.kr/wiki/doku.php?id=egovframework:dev4.0:svrinstall  
-
+공통컴포넌트  
+https://www.egovframe.go.kr/home/sub.do?menuNo=47  
 
