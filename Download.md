@@ -76,4 +76,8 @@ https://www.egovframe.go.kr/wiki/doku.php?id=egovframework:dev4.0:svrinstall
 공통컴포넌트  
 https://www.egovframe.go.kr/home/sub.do?menuNo=47  
 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=nuberus&logNo=221572217360  
+*오라클을 쓸때는 pom.xml에 따로 ojdbc 라이브러리를 추가해준다,  
+global properties를 변경해주고 resource/egovframework/egovprops/spring/com 내부의 context-datasource.xml의   
+<property name="password" value="${Globals.oracle.Password}"/>로 수정해주자 (연결 비밀번호가 암호화 되있음)
+
 
