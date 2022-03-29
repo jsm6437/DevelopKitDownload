@@ -75,4 +75,5 @@ https://www.egovframe.go.kr/wiki/doku.php?id=egovframework:dev4.0:clntinstall
 https://www.egovframe.go.kr/wiki/doku.php?id=egovframework:dev4.0:svrinstall  
 공통컴포넌트  
 https://www.egovframe.go.kr/home/sub.do?menuNo=47  
+https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=nuberus&logNo=221572217360  
 
