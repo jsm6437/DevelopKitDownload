@@ -13,7 +13,9 @@ https://www.eclipse.org/downloads/
 https://code.visualstudio.com/download
 
 ### --> INTELLIJ IDEA Download
-https://www.jetbrains.com/idea/download/#section=windows
+https://www.jetbrains.com/idea/download/#section=windows  
+설치가이드  
+https://goddaehee.tistory.com/195
 
 ### --> ORACLE Database 11g EE Download
 http://www.easyspub.co.kr/20_Menu/BookView/277/PUB
