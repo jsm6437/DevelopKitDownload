@@ -64,7 +64,7 @@ https://wookoa.tistory.com/102
 ### --> Maven Download
 https://maven.apache.org/
 
-### --> STS Download
+### --> STS4 Download
 https://spring.io/tools
 
 ### --> 전자정부표준프레임워크 포털
