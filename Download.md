@@ -15,10 +15,11 @@ https://code.visualstudio.com/download
 ### --> INTELLIJ IDEA Download
 https://www.jetbrains.com/idea/download/#section=windows  
 설치가이드  
-https://goddaehee.tistory.com/195
+https://goddaehee.tistory.com/195  
 플러그인 세팅(Spring 등등 plugin에서 적합하게 추가)    
 https://tychejin.tistory.com/327  
-
+단축기 정리  
+https://jaimemin.tistory.com/1549  
 
 ### --> ORACLE Database 11g EE Download
 http://www.easyspub.co.kr/20_Menu/BookView/277/PUB
