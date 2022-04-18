@@ -86,4 +86,5 @@ https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=nuberus&logN
 global properties를 변경해주고 resource/egovframework/egovprops/spring/com 내부의 context-datasource.xml의   
 <property name="password" value="${Globals.oracle.Password}"/>로 수정해주자 (연결 비밀번호가 암호화 되있음)
 
-
+### --> 전자정부프레임워크 부트 템플릿 구동 가이드
+https://github.com/eGovFramework/egovframe-template-simple-react  
