@@ -21,6 +21,9 @@ https://tychejin.tistory.com/327
 단축키 정리  
 https://jaimemin.tistory.com/1549  
 
+### --> MySQL 설치
+https://stormpy.tistory.com/m/45  
+
 ### --> ORACLE Database 11g EE Download
 http://www.easyspub.co.kr/20_Menu/BookView/277/PUB
 
