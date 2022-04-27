@@ -22,7 +22,7 @@ https://tychejin.tistory.com/327
 https://jaimemin.tistory.com/1549  
 
 ### --> MySQL 설치
-https://stormpy.tistory.com/m/45  
+https://goddaehee.tistory.com/277  
 
 ### --> ORACLE Database 11g EE Download
 http://www.easyspub.co.kr/20_Menu/BookView/277/PUB
