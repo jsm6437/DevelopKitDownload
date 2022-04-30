@@ -23,6 +23,7 @@ https://jaimemin.tistory.com/1549
 
 ### --> MySQL 설치
 https://goddaehee.tistory.com/277  
+[워크벤치 사용법](https://dearmycode.tistory.com/15)  
 
 ### --> ORACLE Database 11g EE Download
 http://www.easyspub.co.kr/20_Menu/BookView/277/PUB
